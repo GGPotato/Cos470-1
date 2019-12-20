@@ -1,6 +1,7 @@
 # Final Exam 2019/12/17 (4:15pm-6:15pm)
 The final exam will be held in class on Tuesday 2019/12/17. You will not be allowed to use any reference while taking the exam. Bring a pen.
-### Ternary Statements (2 points)
+
+### Ternary Statements (2 points)
 ```c#
 int i = 3;
 i += i < 5 ? 2 : 3;
@@ -103,18 +104,18 @@ Not all words and definitions have a match, *if they don't match, don't match th
 1. A keyword which prevents two threads from executing in a code block at the same time.
 1. A keyword which modifies things so they belong to the type itself, *not to an instance* of the type.
 
-* xaml
+* xaml 1
 * .Net Framework
 * yield
 * winforms
-* .Net Core
-* HashSet<T>
+* .Net Core 4
+* HashSet<T> 2
 * readonly
 * break
 * .Net Standard
-* static
+* static 6
 * Dictionary<T>
-* lock
+* lock 5
 * Contains()
 
 ### Write a Function (10 points)
@@ -146,18 +147,19 @@ It could be used like this
 Convince me you know what these words mean. You could give a reason you would use one, explain what they do, or show examples.
 * Solution File (3 points)
 ```
-
+its the strcuture and organization of a file. where to go, what to call and in what order to get the program to run.
 
 
 ```
 * Project Reference (3 points)
 ```
-
+basicaly a way for the project in visual studios to know where to find components of the program
 
 
 ```
 * NuGet Package (3 points)
 ```
+is a package manager that allows for easy add removal and updates of current external libraries
 
 
 
